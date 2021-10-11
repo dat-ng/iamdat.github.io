@@ -9,6 +9,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-    - uses: dat-ng/amdat.github.io@v1
+    - uses: dat-ng/iamdat.github.io@v1
       with: 
         name: Dat Nguyen
